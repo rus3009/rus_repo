@@ -1,0 +1,58 @@
+[33mcommit 277c5e4c989abdfd78bb11836a867f36836bc95d[m[33m ([m[1;36mHEAD -> [m[1;32msecond[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 21:17:20 2025 +0300
+
+     Пожалуйста, введите сообщение коммита для ваших изменений. Строки,
+     начинающиеся с «#» будут проигнорированы, а пустое сообщение
+     отменяет процесс коммита.
+    
+     Дата:      Fri Mar 14 21:17:20 2025 +0300
+    
+     Текущая ветка: main
+     Ваша ветка опережает «origin/main» на 5 коммитов.
+       (используйте «git push», чтобы опубликовать ваши локальные коммиты)
+    
+     Изменения, которые будут включены в коммит:
+            изменено:      1.txt#
+
+[33mcommit ab664e37c9c2e31c8e7f7c5b15cc42f8c38ac013[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 21:11:31 2025 +0300
+
+    added new folder test
+
+[33mcommit 62e3c19dc5d4fe656c6463b844330321664dc5e7[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 21:05:56 2025 +0300
+
+    added 1.txt
+
+[33mcommit c7f83b23675da9e933f8b5c9e9aab55ba0b89af0[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 20:33:08 2025 +0300
+
+    empty commit
+
+[33mcommit f183329784dd05b94bc83efc5241278f4085ffd4[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 20:28:08 2025 +0300
+
+    four commit
+
+[33mcommit 6d4221acf7cda061ca401ceeb915284b4cc6da4d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 20:14:57 2025 +0300
+
+    third commit
+
+[33mcommit d295110bd7c276eda47c972ab5bae137b6ea10fa[m
+Author: rus3009 <rus30091@mail.ru>
+Date:   Fri Mar 14 20:03:54 2025 +0300
+
+    second commit
+
+[33mcommit 3e9de73ad1861737922bc26cbe53aeaca61fedfa[m
+Author: rus3009 <129908963+rus3009@users.noreply.github.com>
+Date:   Fri Mar 14 19:31:42 2025 +0300
+
+    Initial commit
